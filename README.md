@@ -2,4 +2,4 @@
 
 Simple todo app made with Vite + Vue.
 
-![]('./src/assets/todo_img.PNG')
+![image](./src/assets/todo_img.PNG "preview")
